@@ -1,0 +1,31 @@
+h1 {
+    color:blue;
+    text-align: center;
+    padding: 100px;
+}
+p{
+    color: brown;
+    font-size: 20px;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+
+}
+div p {
+    background-color: azure;
+    font-size: 10px;
+    color: azure;
+}
+.alamin{
+    background-color: black;
+    font-size: 40px;
+    color: cadetblue;
+}
+body {
+    background: url(img1/IMG_20230512_182618.jpg) ;
+    height: 100px;
+    width: 100px;
+}
